@@ -2,8 +2,8 @@
 
 int main()
 {
-    char s1[20];
-    int i, len = 0;
+    char s1[50];
+    int i,len = 0;
 
     printf("Enter your string : ");
     gets(s1);
@@ -12,6 +12,8 @@ int main()
         len++;
     }
 
-    printf("The length of your string is %d.", len);
+    for(i = len;i >= 0;i--){
+        printf("%c",s1[i]);
+    }
     return 0;
 }
