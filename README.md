@@ -20,7 +20,9 @@ It is designed for practice, learning, and improving problem-solving skills acro
 3) Run the code with the respective compiler/interpreter:
 
   -> C → gcc file.c -o file && ./file
+  
   -> C++ → g++ file.cpp -o file && ./file
+  
   -> Python → python file.py
 
 🎯 Purpose
