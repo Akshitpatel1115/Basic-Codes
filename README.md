@@ -1,16 +1,32 @@
-This repository contains a collection of C language programs ranging from basic to intermediate level.
-It is designed for beginners to practice and understand the core concepts of C programming.
+📌 About the Repository
+
+This repository contains a collection of programs written in C, C++, and Python.
+It is designed for practice, learning, and improving problem-solving skills across different programming languages.
 
 📂 Contents
 
-🔤 Basics (variables, operators, data types)
+- C Programs → Basics, loops, functions, arrays, strings, file handling, etc.
 
-🔁 Control Structures (if-else, loops, switch-case)
+- C++ Programs → OOP concepts, STL, classes, inheritance, polymorphism, etc.
 
-🔧 Functions & Recursion
+- Python Programs → Basic scripts, data structures, simple projects, and problem-solving exercises.
 
-📚 Arrays & Strings
+🚀 How to Run
 
-📄 File Handling
+1)  Clone the repository
 
-➕ Miscellaneous practice programs
+2) Navigate to the language folder (C, CPP, or Python)
+
+3) Run the code with the respective compiler/interpreter:
+
+  -> C → gcc file.c -o file && ./file
+  -> C++ → g++ file.cpp -o file && ./file
+  -> Python → python file.py
+
+🎯 Purpose
+
+- To practice programming fundamentals
+
+- To learn syntax and concepts of multiple languages
+
+- To build a solid base for problem-solving & development
