@@ -1,6 +1,6 @@
 📌 About the Repository
 
-This repository contains a collection of programs written in C, C++, and Python.
+This repository contains a collection of programs written in C, C++, Python And Java.
 It is designed for practice, learning, and improving problem-solving skills across different programming languages.
 
 📂 Contents
