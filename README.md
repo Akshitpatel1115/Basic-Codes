@@ -25,6 +25,8 @@ It is designed for practice, learning, and improving problem-solving skills acro
   
   -> Python → python file.py
 
+  -> Java → javac file.java && java file 
+
 🎯 Purpose
 
 - To practice programming fundamentals
